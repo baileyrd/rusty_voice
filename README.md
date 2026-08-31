@@ -1,5 +1,11 @@
 # rusty_voice
 
+> **This repository has been merged into
+> [rusty-mill/rusty_mill](https://github.com/rusty-mill/rusty_mill)**, as
+> [`crates/rusty_voice`](https://github.com/rusty-mill/rusty_mill/tree/main/crates/rusty_voice),
+> with full commit history preserved. Please open new issues and pull
+> requests there; this standalone repository is no longer developed.
+
 A sovereign voice-to-text desktop application, built exclusively with
 Rusty Mill libraries: `rusty_gui` (window/events), `rusty_gpu`
 (framebuffer/rendering), `rusty_audio` (real WASAPI microphone capture),
